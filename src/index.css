@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.slick-prev::before {
+  color: rgb(107, 125, 148);
+}
+
+
+.slick-next::before {
+  color: rgb(107, 125, 148);
+}
